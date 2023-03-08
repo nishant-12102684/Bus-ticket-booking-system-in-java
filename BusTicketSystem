@@ -1,6 +1,0 @@
-import java.io.*;
-import java.util.*;
-public class BusTicketSystem{
-         public static void main(String args[]) {
-
-
