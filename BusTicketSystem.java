@@ -11,11 +11,11 @@ public class BusTicketSystem{
 		String password= sc.nextLine();
 		if(user.equals("1") && password.equals("1")){
 			for(int x=1; x==1;){
-    			System.out.println(" [1] Destination                   ");
-    			System.out.println(" [2] Passengers                    ");
-    			System.out.println(" [3] Billing                       ");
-    			System.out.println(" [4] View                          ");
-    			System.out.println(" [5] Exit                          ");
+    			System.out.println(" [1] Destination                ");
+    			System.out.println(" [2] Passengers                 ");
+    			System.out.println(" [3] Billing                    ");
+    			System.out.println(" [4] View                       ");
+    			System.out.println(" [5] Exit                       ");
 				
 			for(x=1; x==1;){
 					System.out.print("ENTER CHOICE: ");
