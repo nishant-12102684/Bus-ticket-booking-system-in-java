@@ -21,8 +21,8 @@ public class BusTicketSystem{
 					System.out.print("ENTER CHOICE: ");
 					choice=in.readLine();
 			}
-				
-			}			
+			}	
+						
     			
 
 
